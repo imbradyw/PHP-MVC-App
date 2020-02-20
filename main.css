@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+
+#imgbox, .imgbox
+{
+	width: 150px;
+	height: 150px;
+	overflow: hidden;
+}
+
+.myimg
+{
+	width: 150px;
+	height: auto;
+}
+
+#book_review
+{
+	width: 174px;
+	height: 100px;
+	resize: none;
+}
